@@ -1,0 +1,16 @@
+.cont{
+   /* margin-top: 2rem; */
+   max-width: 20rem;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.cont h1{
+   font-size: 8rem;
+}
+
+.cont p{
+   font-size: 2rem;
+   font-weight: 600;
+}

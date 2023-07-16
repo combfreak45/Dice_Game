@@ -1,0 +1,20 @@
+
+
+
+.main_w{
+    max-width:100rem;
+    display: flex;
+    margin:  auto;
+    margin-top: 10rem; 
+    align-items: center;
+}
+
+.main_w h1{
+    font-size: 8rem;
+    white-space: nowrap;
+}
+
+.bt{
+    display: flex;
+    justify-content: end;
+}
